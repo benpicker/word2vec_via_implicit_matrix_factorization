@@ -17,9 +17,9 @@ The algorithm is run on the Wikipedia data sets from Hugging Face.
 
 
 <p align="center">
-<img src="https://github.com/benpicker/word2vec_via_implicit_matrix_factorization/markdown_files/closest_results.png" alt="Trulli" style="width:100%">
+<img src="https://github.com/benpicker/word2vec_via_implicit_matrix_factorization/blob/main/markdown_files/closest_results.png" alt="Trulli" style="width:100%">
 </p>
 
 <p align="center">
-<img src="https://github.com/benpicker/word2vec_via_implicit_matrix_factorization/markdown_files/algebra_results.png" alt="Trulli" style="width:100%">
+<img src="https://github.com/benpicker/word2vec_via_implicit_matrix_factorization/blob/main/markdown_files/algebra_results.png" alt="Trulli" style="width:100%">
 </p>
